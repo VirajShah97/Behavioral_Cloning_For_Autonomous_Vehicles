@@ -1,0 +1,16 @@
+
+##Dependencies
+# Use python-3.6.8 (Use pip3 if required)
+
+pip install numpy==1.18.0
+pip install opencv-python==3.4.6.27
+pip install mss
+pip install pyautogui
+
+```
+- Install PyTorch (version 1.7.1(latest at the time)) ( Visit:- https://pytorch.org/get-started/locally/)
+- Users can install GPU version  if supported by host machine)
+```
+pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+
+
