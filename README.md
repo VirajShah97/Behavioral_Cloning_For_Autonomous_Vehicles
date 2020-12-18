@@ -22,6 +22,11 @@ Install Using Command Line
 - Install all dependencies in Requirements.txt
 - python run_GTA5_Demo.py
 ```
+Run Model
+```
+- cd models
+- Open Model_Training.ipynb in Google Colab 
+```
 ## Special Instructions
 - Follow the steps above to verify if the code is running correctly.
 - Once the program builds successfully, a Countdown of 5 seconds will appear.
